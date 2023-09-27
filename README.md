@@ -36,7 +36,7 @@
         </div>
         <div>
             <h3>Landsat</h3>
-            <img src="JIC-Area1/Landsat_area1_.gif" alt="Descrição do GIF">
+            <img src="JIC-Area1/landsat_area1_.gif" alt="Descrição do GIF">
         </div>
         <div>
             <h3>Planet</h3>
@@ -48,7 +48,7 @@
         <h2>AREA 2</h2>
         <div>
             <h3>Sentinel1</h3>
-            <img src="JIC-Area2/Sentinel1_Area1.gif" alt="Descrição do GIF">
+            <img src="JIC-Area2/Sentinel1_Area2.gif" alt="Descrição do GIF">
         </div>
         <div>
             <h3>Sentinel2</h3>
@@ -56,7 +56,7 @@
         </div>
         <div>
             <h3>Landsat</h3>
-            <img src="JIC-Area2/Landsat_area2_.gif" alt="Descrição do GIF">
+            <img src="JIC-Area2/landsat_area2_.gif" alt="Descrição do GIF">
         </div>
         <div>
             <h3>Planet</h3>
