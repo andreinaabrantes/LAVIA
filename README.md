@@ -28,19 +28,19 @@
         <h2>AREA 1</h2>
         <div>
             <h3>Sentinel1</h3>
-            <img src="Sentinel1_Area1.gif" alt="Descrição do GIF">
+            <img src="JIC-Area1/Sentinel1_Area1.gif" alt="Descrição do GIF">
         </div>
         <div>
             <h3>Sentinel2</h3>
-            <img src="Sentinel2.Area1.gif" alt="Descrição do GIF"> <!-- Corrigido o URL da imagem -->
+            <img src="JIC-Area1/Sentinel2.Area1.gif" alt="Descrição do GIF"> 
         </div>
         <div>
             <h3>Landsat</h3>
-            <img src="Landsat.Area1.gif" alt="Descrição do GIF">
+            <img src="JIC-Area1/Landsat.Area1.gif" alt="Descrição do GIF">
         </div>
         <div>
             <h3>Planet</h3>
-            <img src="Planet.Area1.gif" alt="Descrição do GIF">
+            <img src="JIC-Area1/Planet.Area1.gif" alt="Descrição do GIF">
         </div>
     </div>
 
@@ -48,19 +48,19 @@
         <h2>AREA 2</h2>
         <div>
             <h3>Sentinel1</h3>
-            <!-- Adicione as imagens correspondentes aqui -->
+            <img src="JIC-Area2/Sentinel1_Area1.gif" alt="Descrição do GIF">
         </div>
         <div>
             <h3>Sentinel2</h3>
-            <!-- Adicione as imagens correspondentes aqui -->
+            <img src="JIC-Area2/Sentinel2.Area1.gif" alt="Descrição do GIF"> 
         </div>
         <div>
             <h3>Landsat</h3>
-            <!-- Adicione as imagens correspondentes aqui -->
+            <img src="JIC-Area2/Landsat.Area1.gif" alt="Descrição do GIF">
         </div>
         <div>
             <h3>Planet</h3>
-            <!-- Adicione as imagens correspondentes aqui -->
+            <img src="JIC-Area2/Planet.Area1.gif" alt="Descrição do GIF">
         </div>
     </div>
     
