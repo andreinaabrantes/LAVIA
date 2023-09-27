@@ -5,8 +5,8 @@
     <style>
         body {
             font-family: 'Arial', sans-serif;
-            background-color: #f4f4f4;
-            color: #555;
+            background-color: #000;
+            color: #fff;
             text-align: center;
             padding: 50px;
         }
@@ -17,7 +17,7 @@
             font-size: 40px;
         }
         h3 {
-            font-size: 30px;
+            font-size: 20px;
         }
     </style>
 </head>
