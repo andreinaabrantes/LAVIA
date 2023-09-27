@@ -32,15 +32,15 @@
         </div>
         <div>
             <h3>Sentinel2</h3>
-            <img src="JIC-Area1/Sentinel2.Area1.gif" alt="Descrição do GIF"> 
+            <img src="JIC-Area1/Sentinel2.area1.gif" alt="Descrição do GIF"> 
         </div>
         <div>
             <h3>Landsat</h3>
-            <img src="JIC-Area1/Landsat.Area1.gif" alt="Descrição do GIF">
+            <img src="JIC-Area1/Landsat.area1.gif" alt="Descrição do GIF">
         </div>
         <div>
             <h3>Planet</h3>
-            <img src="JIC-Area1/Planet.Area1.gif" alt="Descrição do GIF">
+            <img src="JIC-Area1/Planet.area1.gif" alt="Descrição do GIF">
         </div>
     </div>
 
@@ -52,15 +52,15 @@
         </div>
         <div>
             <h3>Sentinel2</h3>
-            <img src="JIC-Area2/Sentinel2.Area1.gif" alt="Descrição do GIF"> 
+            <img src="JIC-Area2/Sentinel2.area1.gif" alt="Descrição do GIF"> 
         </div>
         <div>
             <h3>Landsat</h3>
-            <img src="JIC-Area2/Landsat.Area1.gif" alt="Descrição do GIF">
+            <img src="JIC-Area2/Landsat.area1.gif" alt="Descrição do GIF">
         </div>
         <div>
             <h3>Planet</h3>
-            <img src="JIC-Area2/Planet.Area1.gif" alt="Descrição do GIF">
+            <img src="JIC-Area2/Planet.area1.gif" alt="Descrição do GIF">
         </div>
     </div>
     
