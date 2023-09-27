@@ -1,5 +1,3 @@
-# amazon_GEE
-
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -18,7 +16,7 @@
     </style>
 </head>
 <body>
-    <h1>Bem-vindo ao Meu Site Simples!</h1>
+    <h1>JIC 2023</h1>
     <p>Este é um exemplo de um site simples que pode ser acessado via QR Code.</p>
 </body>
 </html>
