@@ -13,10 +13,57 @@
         h1 {
             font-size: 50px;
         }
+        h2 {
+            font-size: 40px;
+        }
+        h3 {
+            font-size: 30px;
+        }
     </style>
 </head>
 <body>
     <h1>JIC 2023</h1>
-    <p>Este é um exemplo de um site simples que pode ser acessado via QR Code.</p>
+    
+    <div>
+        <h2>AREA 1</h2>
+        <div>
+            <h3>Sentinel1</h3>
+            <img src="Sentinel1_Area1.gif" alt="Descrição do GIF">
+        </div>
+        <div>
+            <h3>Sentinel2</h3>
+            <img src="Sentinel2.Area1.gif" alt="Descrição do GIF"> <!-- Corrigido o URL da imagem -->
+        </div>
+        <div>
+            <h3>Landsat</h3>
+            <img src="Landsat.Area1.gif" alt="Descrição do GIF">
+        </div>
+        <div>
+            <h3>Planet</h3>
+            <img src="Planet.Area1.gif" alt="Descrição do GIF">
+        </div>
+    </div>
+
+    <div>
+        <h2>AREA 2</h2>
+        <div>
+            <h3>Sentinel1</h3>
+            <!-- Adicione as imagens correspondentes aqui -->
+        </div>
+        <div>
+            <h3>Sentinel2</h3>
+            <!-- Adicione as imagens correspondentes aqui -->
+        </div>
+        <div>
+            <h3>Landsat</h3>
+            <!-- Adicione as imagens correspondentes aqui -->
+        </div>
+        <div>
+            <h3>Planet</h3>
+            <!-- Adicione as imagens correspondentes aqui -->
+        </div>
+    </div>
+    
 </body>
 </html>
+
