@@ -27,40 +27,40 @@
     <div>
         <h2>AREA 1</h2>
         <div>
-            <h3>Sentinel1</h3>
-            <img src="JIC-Area1/Sentinel1_Area1.gif" alt="Descrição do GIF">
-        </div>
-        <div>
             <h3>Sentinel2</h3>
-            <img src="JIC-Area1/Sentinel2_area1_.gif" alt="Descrição do GIF"> 
+            <img src="JIC-Area1_Area2_Corrigido/sentinel2_area1_6sec.gif" alt="Descrição do GIF"> 
         </div>
         <div>
             <h3>Landsat</h3>
-            <img src="JIC-Area1/landsat_area1_.gif" alt="Descrição do GIF">
+            <img src="JIC-Area1_Area2_Corrigido/landsat_area1_6sec.gif" alt="Descrição do GIF">
         </div>
         <div>
             <h3>Planet</h3>
-            <img src="JIC-Area1/Planet_area1_.gif" alt="Descrição do GIF">
+            <img src="JIC-Area1_Area2_Corrigido/planet_area1_6sec.gif" alt="Descrição do GIF">
+        </div>
+           <div>
+            <h3>Sentinel1</h3>
+            <img src="JIC-Area1_Area2_Corrigido/sentinel1_area1_6sec.gif" alt="Descrição do GIF">
         </div>
     </div>
 
     <div>
         <h2>AREA 2</h2>
-        <div>
-            <h3>Sentinel1</h3>
-            <img src="JIC-Area2/Sentinel1_Area2.gif" alt="Descrição do GIF">
-        </div>
-        <div>
+      <div>
             <h3>Sentinel2</h3>
-            <img src="JIC-Area2/Sentinel2_area2_.gif" alt="Descrição do GIF"> 
+            <img src="JIC-Area1_Area2_Corrigido/sentinel2_area2_6sec.gif" alt="Descrição do GIF"> 
         </div>
         <div>
             <h3>Landsat</h3>
-            <img src="JIC-Area2/landsat_area2_.gif" alt="Descrição do GIF">
+            <img src="JIC-Area1_Area2_Corrigido/landsat_area2_6sec.gif" alt="Descrição do GIF">
         </div>
         <div>
             <h3>Planet</h3>
-            <img src="JIC-Area2/Planet_area2_.gif" alt="Descrição do GIF">
+            <img src="JIC-Area1_Area2_Corrigido/planet_area2_6sec.gif" alt="Descrição do GIF">
+        </div>
+           <div>
+            <h3>Sentinel1</h3>
+            <img src="JIC-Area1_Area2_Corrigido/sentinel2_area1_6sec.gif" alt="Descrição do GIF">
         </div>
     </div>
     
