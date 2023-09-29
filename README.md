@@ -60,7 +60,7 @@
         </div>
            <div>
             <h3>Sentinel1</h3>
-            <img src="JIC-Area1_Area2_Corrigido/sentinel2_area1_6sec.gif" alt="Descrição do GIF">
+            <img src="JIC-Area1_Area2_Corrigido/sentinel1_area2_6sec.gif" alt="Descrição do GIF">
         </div>
     </div>
     
