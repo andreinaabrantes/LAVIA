@@ -17,6 +17,9 @@ header {
     padding: 0.5em 0;
 }
 
+div {
+    text-align: center;
+}
 .area {
     background: #201f1d;
     margin: 0.5em 0;
@@ -39,7 +42,4 @@ img {
     border: #bbbbbb 1px solid;
     border-radius: 5px;
     text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
