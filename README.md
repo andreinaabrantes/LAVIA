@@ -13,7 +13,7 @@
         <section class="area" id="area1">
             <h2>Garimpo por balsa</h2>
             
-            <h2>ÁREA 1</h3>
+            <h3>ÁREA 1</h3>
               
             <div class="satellite">
                 <h3>Landsat</h3>
@@ -33,60 +33,63 @@
             </div>
         </section>
         <section class="area" id="area2">
-            <h2>Área 2</h2>
-            <div class="satellite">
-                <h3>Sentinel2</h3>
-                <img class="area2" src="JIC-Area1_Area2_Corrigido2/sentinel2_area2_6sec.gif" alt="Imagem Sentinel2 da Área 2">
-            </div>
+            <h3>ÁREA 2</h3>
             <div class="satellite">
                 <h3>Landsat</h3>
-                <img class="area2" src="JIC-Area1_Area2_Corrigido2/landsat_area2_6sec.gif" alt="Imagem Landsat da Área 2">
+                <img class="area2" src="Timelapse/Area 2/Area2_Landsat_RGB_50.gif">
             </div>
             <div class="satellite">
                 <h3>Planet</h3>
-                <img class="area2" src="JIC-Area1_Area2_Corrigido2/planet_area2_6sec.gif" alt="Imagem Planet da Área 2">
+                <img class="area2" src="Timelapse/Area 2/Area2_Planet_RGB.gif">
+            </div>
+            <div class="satellite">
+                <h3>Sentinel2</h3>
+                <img class="area2" src="Timelapse/Area 2/Area2_sentienl2_RGB.gif" alt="Imagem Sentinel2 da Área 2">
             </div>
             <div class="satellite">
                 <h3>Sentinel1</h3>
-                <img class="area2" src="JIC-Area1_Area2_Corrigido2/sentinel1_area2_6sec.gif" alt="Imagem Sentinel1 da Área 2">
+                <img class="area2" src="Timelapse/Area 2/Area2_Sentinel1_VV.gif" alt="Imagem Sentinel1 da Área 2">
             </div>
-        </section>
+         </section>
+         
+          <h2>Garimpo por balsa</h2>
+         
          <section class="area" id="area1">
-            <h2>Área 1</h2>
-            <div class="satellite">
-                <h3>Sentinel2</h3>
-                <img class="area1" src="JIC-Area1_Area2_Corrigido2/sentinel2_area1_6sec.gif" alt="Imagem Sentinel2 da Área 1">
-            </div>
+            <h3>ÁREA 3</h3>
             <div class="satellite">
                 <h3>Landsat</h3>
-                <img class="area1" src="JIC-Area1_Area2_Corrigido2/landsat_area1_6sec.gif" alt="Imagem Landsat da Área 1">
+                <img class="area1" src="Timelapse/Area 3/Area3_Landsat_RGB_50.gif" alt="Imagem Landsat da Área 1">
             </div>
             <div class="satellite">
                 <h3>Planet</h3>
-                <img class="area1" src="JIC-Area1_Area2_Corrigido2/planet_area1_6sec.gif" alt="Imagem Planet da Área 1">
+                <img class="area1" src="Timelapse/Area 3/Area3_Planet_RGB.gif" alt="Imagem Planet da Área 1">
             </div>
             <div class="satellite">
+                <h3>Sentinel2</h3>
+                <img class="area1" src="Timelapse/Area 3/Area3_sentienl2_RGB_1.gif" alt="Imagem Sentinel2 da Área 1">
+            </div>            
+            <div class="satellite">
                 <h3>Sentinel1</h3>
-                <img class="area1" src="JIC-Area1_Area2_Corrigido2/sentinel1_area1_6sec.gif" alt="Imagem Sentinel1 da Área 1">
+                <img class="area1" src="Timelapse/Area 3/Area3_Sentinel_1_VV.gif" alt="Imagem Sentinel1 da Área 1">
             </div>
-        </section>
+         </section>
         <section class="area" id="area2">
-            <h2>Área 2</h2>
+            <h3>Área 4</h3>
             <div class="satellite">
                 <h3>Sentinel2</h3>
-                <img class="area2" src="JIC-Area1_Area2_Corrigido2/sentinel2_area2_6sec.gif" alt="Imagem Sentinel2 da Área 2">
-            </div>
-            <div class="satellite">
-                <h3>Landsat</h3>
-                <img class="area2" src="JIC-Area1_Area2_Corrigido2/landsat_area2_6sec.gif" alt="Imagem Landsat da Área 2">
+                <img class="area2" src="JTimelapse/Area4/Area4_Landsat_RGB.gif" alt="Imagem Sentinel2 da Área 2">
             </div>
             <div class="satellite">
                 <h3>Planet</h3>
-                <img class="area2" src="JIC-Area1_Area2_Corrigido2/planet_area2_6sec.gif" alt="Imagem Planet da Área 2">
+                <img class="area2" src="Timelapse/Area4/Area4_Planet_RGB.gif" alt="Imagem Planet da Área 2">
+            </div>
+             <div class="satellite">
+                <h3>Landsat</h3>
+                <img class="area2" src="Timelapse/Area4/Area4_sentienl2_RGB.gif" alt="Imagem Landsat da Área 2">
             </div>
             <div class="satellite">
                 <h3>Sentinel1</h3>
-                <img class="area2" src="JIC-Area1_Area2_Corrigido2/sentinel1_area2_6sec.gif" alt="Imagem Sentinel1 da Área 2">
+                <img class="area2" src="Timelapse/Area4/Area4_sentienl2_RGB.gif" alt="Imagem Sentinel1 da Área 2">
             </div>
         </section>
     </div>
